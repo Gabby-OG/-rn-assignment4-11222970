@@ -22,16 +22,30 @@ const featuredJobs = [
 ];
 
 const popularJobs = [
-  
- 
-  {
-    id: '3',
-    company: 'Microsoft',
-    title: 'Product Manager',
-    salary: '$86,000/y',
-    location: 'Washington, US',
-    logo: require('./assets/facebook.png')
-  }
+    {
+        id: '1',
+        company: 'Burger King',
+        title: 'Jr Executive',
+        salary: '$96,000/y',
+        location: 'Los Angeles, US',
+        logo: require('./assets/burger-king.jpg')
+      },
+      {
+        id: '2',
+        company: 'Beats',
+        title: 'Product Manager',
+        salary: '$84,000/y',
+        location: 'Florida, US',
+        logo: require('./assets/Beats.png')
+      },
+      {
+        id: '3',
+        company: 'Microsoft',
+        title: 'Product Manager',
+        salary: '$86,000/y',
+        location: 'Washington, US',
+        logo: require('./assets/facebook.png')
+      }
 ];
 
 const JobItem = ({ job }) => (
