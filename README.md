@@ -25,5 +25,9 @@ The App js file includes the following components which are essential:
 
   SCREENSHOTS
   LOGIN PAGE
-  ![Screenshot 2024-06-19 190911](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/896da627-2491-4d47-b299-26ac7ba818f7)
+
+
+
+
+   ![Screenshot 2024-06-19 190911](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/896da627-2491-4d47-b299-26ac7ba818f7)
 
