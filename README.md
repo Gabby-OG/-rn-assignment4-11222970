@@ -40,9 +40,10 @@ Home Page
 
 
 
+![WhatsApp Image 2024-06-19 at 8 09 55 PM](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/b93cd951-9450-44c2-91f8-ede868325486)
 
 
 
-![Screenshot 2024-06-19 190911](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/072179c9-b573-45b9-b772-09cfdd7700ce)
+
 
 
