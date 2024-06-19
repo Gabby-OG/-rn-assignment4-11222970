@@ -3,11 +3,11 @@ The App js file includes the following components which are essential:
 - The `Home` and `Login` screens are imported for navigation.
 - A stack navigator is created to handle the app's navigation flow.
 - The `App` component uses a `NavigationContainer` to encapsulate the navigator, which starts at the 'login' screen and has no header.
-- Two routes, 'login' and 'Home', are set up within the stack navigator.
+- Two routes, login and Home, are set up within the stack navigator.
 - The navigation setup enhances user experience by providing a seamless transition between the login and home screens without a header bar.
 
   The Login js file also use the following components:
-  - The `LoginScreen` component is for user login in a job app.
+  - The LoginScreen component is for user login in a job app.
 - It uses React's `useState`, native components, and `StatusBar`.
 - State variables `name` and `email` capture user input.
 - `handleLogin` navigates to the 'Home' screen with user data.
