@@ -36,11 +36,22 @@ The App js file includes the following components which are essential:
 
 
 
-Home Page
+Home Page on phone
 
 
 
 ![WhatsApp Image 2024-06-19 at 8 09 55 PM](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/b93cd951-9450-44c2-91f8-ede868325486)
+
+
+
+Log In page on phone
+
+
+
+
+![WhatsApp Image 2024-06-19 at 8 14 22 PM](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/7b5bac04-b068-427a-80c4-21c09c5f32cb)
+
+
 
 
 
