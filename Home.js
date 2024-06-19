@@ -202,7 +202,8 @@ const styles = StyleSheet.create({
   featuredJobItem: {
     width: 280,
     // height: 186,
-    backgroundColor: '#E0E7FF',
+    backgroundColor: '#356899'
+,
     borderRadius: 15,
     padding: 25,
     marginRight: 10,
