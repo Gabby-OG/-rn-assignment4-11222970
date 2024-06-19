@@ -73,7 +73,7 @@ const App = ({route}) => {
           <Text style={styles.email}>{email || 'ericatsu@gmail.com'}</Text>
         </View>
         <Image 
-          
+          source={require('./assets/Profile.jpg')}
           style={styles.profileImage} 
         />
       </View>
