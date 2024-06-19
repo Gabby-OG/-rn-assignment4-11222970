@@ -23,4 +23,7 @@ The App js file includes the following components which are essential:
 - Styles are defined for UI components to enhance user experience.
 - The file's design facilitates job searches and displays profiles, with efficient data rendering and a clean interface.
 
-  
+  SCREENSHOTS
+  LOGIN PAGE
+  ![Screenshot 2024-06-19 190911](https://github.com/Gabby-OG/-rn-assignment4-11222970/assets/148434566/896da627-2491-4d47-b299-26ac7ba818f7)
+
